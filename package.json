@@ -14,15 +14,15 @@
     "eslint",
     "es6",
     "ecmascript6",
-    "react"
+    "react",
     "react-native"
   ],
   "author": "Adrien Pyke",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kufii/eslint-config-adpyke-react/issues"
+    "url": "https://github.com/kufii/eslint-config-adpyke-react-native/issues"
   },
-  "homepage": "https://github.com/kufii/eslint-config-adpyke-react#readme",
+  "homepage": "https://github.com/kufii/eslint-config-adpyke-react-native#readme",
   "dependencies": {
     "eslint-config-adpyke-react": "^1.0.0"
   },
