@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-adpyke-react-native",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Highly opinionated ESLint config for React Native projects.",
   "main": "index.js",
   "scripts": {
