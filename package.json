@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/kufii/eslint-config-adpyke-react-native#readme",
   "dependencies": {
-    "eslint-config-adpyke-react": "^1.2.3"
+    "eslint-config-adpyke-react": "^1.2.5"
   },
   "peerDependencies": {
     "babel-eslint": ">= 1.0.0",
